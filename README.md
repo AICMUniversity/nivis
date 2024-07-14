@@ -1,5 +1,5 @@
 # Nivis
-Poly-paradigm Scripting Interface
+Next Generation Functional Programming Languages
 
 ## About
 
